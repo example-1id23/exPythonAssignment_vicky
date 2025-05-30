@@ -1,0 +1,39 @@
+ANs 1
+
+if – Conditional statements
+
+for – Loop through a sequence
+
+def – Define a function
+
+return – Return a value from a function
+
+while – Loop while a condition is true
+
+Ans 2
+Can contain letters, digits, and underscores.
+
+Cannot start with a digit.
+
+Cannot be a Python keyword.
+
+Case-sensitive.
+Example :-
+user_name = "Alice"
+age1 = 25
+
+Ans 3)
+# This prints hello
+print("Hello, world!")  # Output greeting
+
+ANs 4)
+Proper indentation in Python is important because it defines the structure and flow of the code. 
+Unlike many languages, Python uses indentation to group statements, so incorrect indentation causes errors or changes program behavior.
+
+Ans 5
+If indentation is incorrect in Python, the program will raise an IndentationError or SyntaxError, 
+and the code will not run properly. It can also cause the logic to break by grouping statements incorrectly.
+
+ANs 6)
+x = 2 + 3  # Assigns 5 to x (performs an action)
+print(x)   # Prints the value of x
